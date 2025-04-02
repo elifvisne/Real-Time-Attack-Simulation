@@ -1,1 +1,1 @@
-
+[Raporu Görüntüle](Rapor.pdf)
